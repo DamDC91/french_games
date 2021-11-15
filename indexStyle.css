@@ -1,0 +1,52 @@
+#logo
+{
+	height: 150px;
+}
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+#comment-div
+{
+	overflow: scroll !important;
+	/*
+	height: 80% !important;*/
+	height: 600px !important;
+}
+.comment
+{
+	border-bottom: 1px dotted black;
+	border-radius: 5px;
+}
+.date
+{
+	font-size: 11px;
+	font-style: italic;
+}
+b
+{
+	font-size: 14px;
+}
+.txt
+{
+	font-size: 20px;
+	font-family: Georgia; 
+}
+.btn:active
+{
+  transform: translateY(4px);
+}
+h3
+{
+	font-family: Impact;
+}
+#score
+{
+	font-family: Georgia; 
+		font-size: 18px;
+}
+h1
+{
+	font-family: Impact;
+}
